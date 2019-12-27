@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BurlapTV/Frequently-Asked-Questions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# THINGS THAT PEOPLE OFTEN ASK ME: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How long have you been streaming?
 
-### Markdown
+At the time of writing this, several months.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What do you do in your career?
 
-```markdown
-Syntax highlighted code block
+Arcane Computer Wizardry.
 
-# Header 1
-## Header 2
-### Header 3
+## How old are you?
 
-- Bulleted
-- List
+MY YOUNG THIRTIES, THANK YOU.
 
-1. Numbered
-2. List
+## What are your political beliefs?
 
-**Bold** and _Italic_ and `Code` text
+My own.
 
-[Link](url) and ![Image](src)
-```
+## Is that your actual heart rate? How?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Yes, it is. I'm wearing a fitness tracker that allows me to capture the data and read it over serial into OBS. 
 
-### Jekyll Themes
+Read about heart rate data here: https://en.wikipedia.org/wiki/Heart_rate#Resting_heart_rate
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BurlapTV/Frequently-Asked-Questions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## What programming languages are you a fan of?
 
-### Support or Contact
+C++, ASM, Lua
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What programming languages are you *not* a fan of?
+
+Java/Python
+
+## Can I play games with you?
+
+Yes, join our community discord!
+
+## Do you own any consoles?
+
+Only an N64 with a few games.
+
+## What's your favorite anime?
+
+Initial D, I'm a car weeb.
+
+## What games do you like?
+
+Check out the link to my steam curator page on my profile, but I tend to enjoy MMOs/ARPGs/Shooters. Some of my favorite games are Katamari Damacy, Path of Exile, Duke Nukem, & FEAR.
+
+## What's your favorite root vegetable?
+
+It's likely to be a carrot.
+
+## How did you do x/y/z on your stream?
+
+I'm really passionate about streaming, and I love discussing all the tools I've made for my stream; so feel free to ask me this kind of thing while I'm live so I can give you a comprehensive answer.
+
+## Can I ask you for your advice on streaming?
+
+Again, I'm very passionate about streaming, so yes! But keep in mind that I have rules against self promotion of any kind in my chat.
