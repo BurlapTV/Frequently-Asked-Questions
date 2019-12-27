@@ -21,7 +21,7 @@ My own.
 
 Yes, it is. I'm wearing a fitness tracker that allows me to capture the data and read it over serial into OBS. 
 
-Read about heart rate data here: https://en.wikipedia.org/wiki/Heart_rate#Resting_heart_rate
+Read about heart rate data [here](https://en.wikipedia.org/wiki/Heart_rate#Resting_heart_rate)
 
 ## What programming languages are you a fan of?
 
@@ -45,7 +45,7 @@ Initial D, I'm a car weeb.
 
 ## What games do you like?
 
-Check out the link to my steam curator page on my profile, but I tend to enjoy MMOs/ARPGs/Shooters. Some of my favorite games are Katamari Damacy, Path of Exile, Duke Nukem, & FEAR.
+Check out the link to [my steam curator page](https://store.steampowered.com/curator/36232137-BurlapTV/), but I tend to enjoy MMOs/ARPGs/Shooters. Some of my favorite games are Katamari Damacy, Path of Exile, Duke Nukem, & FEAR.
 
 ## What's your favorite root vegetable?
 
