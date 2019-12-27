@@ -49,7 +49,7 @@ Check out the link to [my steam curator page](https://store.steampowered.com/cur
 
 ## What's your favorite root vegetable?
 
-It's likely to be a carrot.
+[It's likely to be a carrot.](https://www.twitch.tv/burlaptv/clip/VivaciousPerfectHawkTheRinger)
 
 ## How did you do x/y/z on your stream?
 
