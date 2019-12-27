@@ -1,6 +1,3 @@
-
-# THINGS THAT PEOPLE OFTEN ASK ME: 
-
 ## How long have you been streaming?
 
 At the time of writing this, several months.
