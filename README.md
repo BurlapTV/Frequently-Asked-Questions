@@ -42,7 +42,7 @@ Initial D, I'm a car weeb.
 
 ## What games do you like?
 
-Check out the link to [my steam curator page](https://store.steampowered.com/curator/36232137-BurlapTV/), but I tend to enjoy MMOs/ARPGs/Shooters. Some of my favorite games are Katamari Damacy, Path of Exile, Duke Nukem, & FEAR.
+Check out the link to [my steam curator page](https://store.steampowered.com/curator/36232137-BurlapTV/), but I tend to enjoy MMOs/ARPGs/Shooters. Some of my favorite games are Katamari Damacy, Dark Souls, Path of Exile, Duke Nukem, & FEAR.
 
 ## What's your favorite root vegetable?
 
@@ -51,6 +51,13 @@ Check out the link to [my steam curator page](https://store.steampowered.com/cur
 ## How did you do x/y/z on your stream?
 
 I'm really passionate about streaming, and I love discussing all the tools I've made for my stream; so feel free to ask me this kind of thing while I'm live so I can give you a comprehensive answer.
+
+## What are all those weird emotes that show on the overlay but not in my chat while I watch your stream?
+
+They're either from FFZ or BTTV.
+
+https://www.frankerfacez.com/
+https://betterttv.com/
 
 ## Can I ask you for your advice on streaming?
 
