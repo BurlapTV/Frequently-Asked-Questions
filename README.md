@@ -20,6 +20,10 @@ Yes, it is. I'm wearing a fitness tracker that allows me to capture the data and
 
 Read about heart rate data [here](https://en.wikipedia.org/wiki/Heart_rate#Resting_heart_rate)
 
+## How can I donate?
+
+[I accept tips via bits & subscriptions](https://help.twitch.tv/s/article/guide-to-cheering-with-bits)
+
 ## What programming languages are you a fan of?
 
 C++, ASM, Lua
