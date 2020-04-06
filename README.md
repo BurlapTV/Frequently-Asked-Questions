@@ -58,10 +58,7 @@ I'm really passionate about streaming, and I love discussing all the tools I've 
 
 ## What are all those weird emotes that show on the overlay but not in my chat while I watch your stream?
 
-They're either from FFZ or BTTV.
-
-https://www.frankerfacez.com/
-https://betterttv.com/
+They're either from [FFZ](https://www.frankerfacez.com/) or [BTTV](https://betterttv.com/), which you should absolutely use.
 
 ## Can I ask you for your advice on streaming?
 
